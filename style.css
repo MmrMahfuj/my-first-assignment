@@ -103,10 +103,52 @@ body{
 }
 .boxes{
     text-align: left;
-    height: 550px;
+    height: 590px;
     width: 400px;
     margin: 2%;
     padding: 1%;
     border-radius: 20px;
     box-shadow: 5px 5px 30px gray;
+}
+.boxes-header{
+    font-size: 30px;
+    font-weight: 600;
+}
+.boxes-pra{
+    color: rgb(87, 79, 79);
+}
+.social-media{
+    display: flex;
+    box-shadow: 5px 5px 30px gray;
+    height: 230px;
+    width: 1400px;
+    margin: 5%;
+    text-align: center;
+}
+.social{
+    padding: 2%;
+    padding-left: 15%;
+}
+.media-follow{
+    font-size: 30px;
+    font-weight: 900;
+}
+.footer{
+    background-color: black;
+    height: 280px;
+}
+.footer-eliment{
+    text-align: center;
+    color: teal;
+    padding-top: 5%;
+}
+.foot-header{
+    font-size: 40px;
+    
+}
+.foot-right{
+    color: orange;
+}
+.footer-pra{
+    color: white;
 }
