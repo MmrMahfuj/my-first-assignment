@@ -188,6 +188,42 @@ body{
     font-size: 30px;
     font-weight: 900;
 }
+
+/* ///////////////////////////....................Recipes sector.........../////////////// */
+
+.recipes-heading{
+    font-size: 40px;
+    text-align: center;
+    color: gray;
+}
+.all-recipes-ideas{
+    display: flex;
+    flex-direction: column;
+}
+.all-recipes{
+    display: flex;
+    margin: 4% 25%;
+    text-align: center;
+    border-top: 1px dashed black;
+    border-bottom: 1px dashed black;
+}
+.all-recipes-items{
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.all-recipes-images{
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-left: 10%;
+}
+.all-recipes-images img{
+    width: 100%;
+}
+/* ///////////////////////////.................footer sector...............//////////////// */
+
+
 .footer{
     background-color: black;
     height: 280px;
